@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Track Project Time</string>
+    <string name="projectName">Project name</string>
+    <string name="taskDescription">Task Description</string>
+</resources>
