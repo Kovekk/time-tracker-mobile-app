@@ -11,7 +11,7 @@ I wanted to create this app to help me track time I spend on future projects.
 
 Here is a link to the Youtube video describing my project:
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=TeHbg4WLvNU)
 
 # Development Environment
 
@@ -22,13 +22,19 @@ Kotlin
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course)
+* [Android Developers - guides](https://developer.android.com/develop)
+
+# Project Origin
+> The project originated as a console driven menu written in Kotlin. None of the code 
+> written in the original project was utilized but a reference is given here to show
+> the projects origin and progress from just Kotlin to an Android App with a gui.
+
+* [Time Tracker](https://github.com/Kovekk/time-tracker)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Add routing to allow for additional screens
+* Utilize room library to create and save different projects
+* Allow the user to create projects so the app can track time spent and give
+    reports to the user on time spent.
